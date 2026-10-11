@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "analog",
+    "captured_at": "2026-10-11T141838",
+    "source_url": "https://forgeglobal.com/analog_stock/",
+    "source_type": "Website",
+    "file": "analog-2026-10-11T141838.png",
+    "bytes": 177868,
+    "capture": "playwright-local"
+  }
+]
